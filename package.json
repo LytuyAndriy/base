@@ -1,0 +1,22 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "qwe",
+  "main": "server.js",
+  "scripts": {
+    "test": "qwer",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "qwer"
+  },
+  "keywords": [
+    "qwert"
+  ],
+  "author": "qwetyu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
